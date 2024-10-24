@@ -11,17 +11,38 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Recent News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* 2024.08: A paper is accepted by NLPCC 2024.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* 2024.07: A paper is accepted by VIS 2024 & IEEE TVCG.
+
+* 2024.04: A paper is accepted by ACM TOMM.
+
+* 2024.03: A paper is accepted by DASFAA 2024 (Long Paper).
+
+
 
 Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* [Fine-Tuned Large Language Model for Visualization System: A Study on Self-Regulated Learning in Education](https://ieeexplore.ieee.org/abstract/document/10670435).   
+  Lin Gao, Jing Lu, Zekai Shao, Ziyue Lin, **Shengbin Yue**, Chiokit Ieong, Yi Sun, Rory James Zauner, Zhongyu Wei, Siming Chen.  
+  **IEEE TVCG**  
 
+* [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](https://arxiv.org/abs/2407.09893).  
+  **Shengbin Yue**, Siyuan Wang, Wei Chen, Xuanjing Huang, Zhongyu Wei.  
+  **Preprint**
 
+* [Haf-rm: A hybrid alignment framework for reward model training](https://arxiv.org/abs/2407.04185).  
+  Shujun Liu, Xiaoyu Shen, Yuhang Lai, Siyuan Wang, **Shengbin Yue**, Zengfeng Huang, Xuanjing Huang, Zhongyu Wei.  
+  **Preprint**
+
+* [Multi-grained Representation Aggregating Transformer with Gating Cycle for Change Captioning](https://dl.acm.org/doi/abs/10.1145/3660346).  
+  **Shengbin Yue**, Yunbin Tu, Liang Li, Shengxiang Gao, Zhengtao Yu.  
+  **ACM TOMM**
+
+* [Disc-lawllm: Fine-tuning large language models for intelligent legal services](https://arxiv.org/abs/2309.11325).  
+  **Shengbin Yue**, Wei Chen, Siyuan Wang, Bingxuan Li, Chenchen Shen, Shujun Liu, Yuxuan Zhou, Yao Xiao, Song Yun, Xuanjing Huang, Zhongyu Wei.  
+  **Preprint**
+
+* [I3N: Intra- and Inter-Representation Interaction Network for Change Captioning](https://ieeexplore.ieee.org/abstract/document/10050818).  
+  **Shengbin Yue**, Yunbin Tu, Liang Li, Ying Yang, Shengxiang Gao, Zhengtao Yu.  
+  **IEEE TMM** 
