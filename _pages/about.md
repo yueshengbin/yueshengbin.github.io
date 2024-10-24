@@ -7,7 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am Shengbin Yue (岳圣斌), a Ph.D. student at Fudan University. I’m a member of the [Fudan NLP Group](https://nlp.fudan.edu.cn/nlpen/main.htm) and [DISC Lab](http://www.fudan-disc.com/), and very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and [Wei Lin](https://iics.fudan.edu.cn/41/d7/c33358a410071/page.htm).
+
+
+Research Interests
+======
+My work spans Natural Language Processing and Multi-modal Learning. I’m particularly excited about these research thrusts:
+* 🤖 LLM-driven multi-agent systems. 
+* 📸 Vision-and-language content analysis. 
 
 Recent News
 ======
