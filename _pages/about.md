@@ -48,7 +48,7 @@ Publications
 
 * [Disc-lawllm: Fine-tuning large language models for intelligent legal services](https://arxiv.org/abs/2309.11325).  
   **Shengbin Yue**, Wei Chen, Siyuan Wang, Bingxuan Li, Chenchen Shen, Shujun Liu, Yuxuan Zhou, Yao Xiao, Song Yun, Xuanjing Huang, Zhongyu Wei.  
-  **DASFAA2024**
+  **Preprint**
 
 * [I3N: Intra- and Inter-Representation Interaction Network for Change Captioning](https://ieeexplore.ieee.org/abstract/document/10050818).  
   **Shengbin Yue**, Yunbin Tu, Liang Li, Ying Yang, Shengxiang Gao, Zhengtao Yu.  
