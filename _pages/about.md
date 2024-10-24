@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Shengbin Yue (岳圣斌), a Ph.D. student at Fudan University. I’m a member of the [Fudan NLP Group](https://nlp.fudan.edu.cn/nlpen/main.htm) and [DISC Lab](http://www.fudan-disc.com/), and very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and [Wei Lin](https://iics.fudan.edu.cn/41/d7/c33358a410071/page.htm).
+I am Shengbin Yue (岳圣斌), a Ph.D. student at Fudan University. I’m a member of the [Fudan NLP Group](https://nlp.fudan.edu.cn/nlpen/main.htm) and [DISC Lab](http://www.fudan-disc.com/), and very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and [Prof. Wei Lin](https://iics.fudan.edu.cn/41/d7/c33358a410071/page.htm).
 
 
 Research Interests
