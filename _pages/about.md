@@ -13,7 +13,7 @@ Hi! 👀 I am Shengbin Yue (岳圣斌), a Ph.D. student at Fudan University. I�
 Research Interests
 ======
 My work spans Natural Language Processing and Multi-modal Learning. I’m particularly excited about these research thrusts:
-* 🤖 LLM-driven multi-agent systems. 
+* 🤖 Multi-agent systems powered by Large Language Models. 
 * 📸 Vision-and-language content analysis. 
 
 Recent News
