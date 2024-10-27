@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 👀 I am Shengbin Yue (岳圣斌), a Ph.D. student at Fudan University. I’m a member of the [Fudan NLP Group](https://nlp.fudan.edu.cn/nlpen/main.htm) and [DISC Lab](http://www.fudan-disc.com/), and very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and [Prof. Wei Lin](https://iics.fudan.edu.cn/41/d7/c33358a410071/page.htm).
+Hi! 👀 I am Shengbin Yue (岳圣斌), a Ph.D. student at Fudan University. I’m a member of the [Fudan NLP Group](https://nlp.fudan.edu.cn/nlpen/main.htm) and [DISC Lab](http://www.fudan-disc.com/), and very fortunate to be advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and Prof. [Wei Lin](https://iics.fudan.edu.cn/41/d7/c33358a410071/page.htm).
 
 
 Research Interests
@@ -32,7 +32,7 @@ Publications
 ======
 * [Fine-Tuned Large Language Model for Visualization System: A Study on Self-Regulated Learning in Education](https://ieeexplore.ieee.org/abstract/document/10670435).   
   Lin Gao, Jing Lu, Zekai Shao, Ziyue Lin, **Shengbin Yue**, Chiokit Ieong, Yi Sun, Rory James Zauner, Zhongyu Wei, Siming Chen.  
-  **IEEE TVCG**  
+  **IEEE TVCG & VIS 2024**  
 
 * [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](https://arxiv.org/abs/2407.09893).  
   **Shengbin Yue**, Siyuan Wang, Wei Chen, Xuanjing Huang, Zhongyu Wei.  
