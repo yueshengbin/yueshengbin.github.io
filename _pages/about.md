@@ -30,6 +30,10 @@ Recent News
 
 Publications
 ======
+* [Empowering LLMs for Long-Text Information Extraction in Chinese Legal Documents](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_35).  
+  Chenchen Shen, Chengwei Ji, **Shengbin Yue**, Xiaoyu Shen, Yun Song, Xuanjing Huang, Zhongyu Wei.   
+  **NLPCC 2024**
+  
 * [Fine-Tuned Large Language Model for Visualization System: A Study on Self-Regulated Learning in Education](https://ieeexplore.ieee.org/abstract/document/10670435).   
   Lin Gao, Jing Lu, Zekai Shao, Ziyue Lin, **Shengbin Yue**, Chiokit Ieong, Yi Sun, Rory James Zauner, Zhongyu Wei, Siming Chen.  
   **IEEE TVCG & VIS 2024**  
