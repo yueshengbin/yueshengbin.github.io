@@ -15,18 +15,24 @@ My work spans Natural Language Processing and Multi-modal Learning. I’m partic
 
 Recent News
 ======
-* 2024.08: A paper is accepted by NLPCC 2024.
+* 2024.12: A paper is accepted by *AAAI 2025*.
 
-* 2024.07: A paper is accepted by VIS 2024 & IEEE TVCG.
+* 2024.08: A paper is accepted by *NLPCC 2024*.
 
-* 2024.04: A paper is accepted by ACM TOMM.
+* 2024.07: A paper is accepted by *VIS 2024* & *IEEE TVCG*.
 
-* 2024.03: A paper is accepted by DASFAA 2024 (Long Paper).
+* 2024.04: A paper is accepted by *ACM TOMM*.
+
+* 2024.03: A paper is accepted by *DASFAA 2024* (Long Paper).
 
 
 
 Publications
 ======
+* [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](https://arxiv.org/abs/2407.09893).  
+  **Shengbin Yue**, Siyuan Wang, Wei Chen, Xuanjing Huang, Zhongyu Wei.  
+  **AAAI2025**
+
 * [Empowering LLMs for Long-Text Information Extraction in Chinese Legal Documents](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_35).  
   Chenchen Shen, Chengwei Ji, **Shengbin Yue**, Xiaoyu Shen, Yun Song, Xuanjing Huang, Zhongyu Wei.   
   **NLPCC 2024**
@@ -35,9 +41,6 @@ Publications
   Lin Gao, Jing Lu, Zekai Shao, Ziyue Lin, **Shengbin Yue**, Chiokit Ieong, Yi Sun, Rory James Zauner, Zhongyu Wei, Siming Chen.  
   **IEEE TVCG & VIS 2024**  
 
-* [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](https://arxiv.org/abs/2407.09893).  
-  **Shengbin Yue**, Siyuan Wang, Wei Chen, Xuanjing Huang, Zhongyu Wei.  
-  **Preprint**
 
 * [Haf-rm: A hybrid alignment framework for reward model training](https://arxiv.org/abs/2407.04185).  
   Shujun Liu, Xiaoyu Shen, Yuhang Lai, Siyuan Wang, **Shengbin Yue**, Zengfeng Huang, Xuanjing Huang, Zhongyu Wei.  
