@@ -31,7 +31,7 @@ Publications
 ======
 * [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](https://arxiv.org/abs/2407.09893).  
   **Shengbin Yue**, Siyuan Wang, Wei Chen, Xuanjing Huang, Zhongyu Wei.  
-  **AAAI2025**
+  **AAAI 2025**
 
 * [Empowering LLMs for Long-Text Information Extraction in Chinese Legal Documents](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_35).  
   Chenchen Shen, Chengwei Ji, **Shengbin Yue**, Xiaoyu Shen, Yun Song, Xuanjing Huang, Zhongyu Wei.   
@@ -48,7 +48,7 @@ Publications
 
 * [Multi-grained Representation Aggregating Transformer with Gating Cycle for Change Captioning](https://dl.acm.org/doi/abs/10.1145/3660346).  
   **Shengbin Yue**, Yunbin Tu, Liang Li, Shengxiang Gao, Zhengtao Yu.  
-  **ACM TOMM**
+  **ACM TOMM 2024**
 
 * [Disc-lawllm: Fine-tuning large language models for intelligent legal services](https://arxiv.org/abs/2309.11325).  
   **Shengbin Yue**, Wei Chen, Siyuan Wang, Bingxuan Li, Chenchen Shen, Shujun Liu, Yuxuan Zhou, Yao Xiao, Song Yun, Xuanjing Huang, Zhongyu Wei.  
@@ -56,4 +56,17 @@ Publications
 
 * [I3N: Intra- and Inter-Representation Interaction Network for Change Captioning](https://ieeexplore.ieee.org/abstract/document/10050818).  
   **Shengbin Yue**, Yunbin Tu, Liang Li, Ying Yang, Shengxiang Gao, Zhengtao Yu.  
-  **IEEE TMM** 
+  **IEEE TMM 2023**
+
+Honors & Awards
+======
+* Dong Scholarship, FDU, 2024.
+* Merit Student, FDU, 2024.
+* Yunnan Merit Student, Yunnan Province, 2023.
+* Outstanding Graduate, Yunnan Province, 2020.
+  
+Service
+======
+* Reviewer: ARR June 2024, COLING 2025, NLPCC 2024, Knowledge-Based Systems, Neurocomputing
+* Teaching Assistant: IICS737021-Large Language Model-24 Fall
+
