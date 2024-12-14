@@ -29,34 +29,26 @@ Recent News
 
 Publications
 ======
-* [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](https://arxiv.org/abs/2407.09893).  
-  **Shengbin Yue**, Siyuan Wang, Wei Chen, Xuanjing Huang, Zhongyu Wei.  
-  **AAAI 2025**
-
-* [Empowering LLMs for Long-Text Information Extraction in Chinese Legal Documents](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_35).  
-  Chenchen Shen, Chengwei Ji, **Shengbin Yue**, Xiaoyu Shen, Yun Song, Xuanjing Huang, Zhongyu Wei.   
-  **NLPCC 2024**
+* **[Preprint]** [Haf-rm: A hybrid alignment framework for reward model training](https://arxiv.org/abs/2407.04185).  
+  Shujun Liu, Xiaoyu Shen, Yuhang Lai, Siyuan Wang, **Shengbin Yue**, Zengfeng Huang, Xuanjing Huang, Zhongyu Wei.
   
-* [Fine-Tuned Large Language Model for Visualization System: A Study on Self-Regulated Learning in Education](https://ieeexplore.ieee.org/abstract/document/10670435).   
-  Lin Gao, Jing Lu, Zekai Shao, Ziyue Lin, **Shengbin Yue**, Chiokit Ieong, Yi Sun, Rory James Zauner, Zhongyu Wei, Siming Chen.  
-  **IEEE TVCG & VIS 2024**  
+* **[AAAI 2025]** [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](https://arxiv.org/abs/2407.09893).  
+  **Shengbin Yue**, Siyuan Wang, Wei Chen, Xuanjing Huang, Zhongyu Wei.  
 
+* **[NLPCC 2024]** [Empowering LLMs for Long-Text Information Extraction in Chinese Legal Documents](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_35).  
+  Chenchen Shen, Chengwei Ji, **Shengbin Yue**, Xiaoyu Shen, Yun Song, Xuanjing Huang, Zhongyu Wei.   
+  
+* **[IEEE TVCG & VIS 2024]** [Fine-Tuned Large Language Model for Visualization System: A Study on Self-Regulated Learning in Education](https://ieeexplore.ieee.org/abstract/document/10670435).   
+  Lin Gao, Jing Lu, Zekai Shao, Ziyue Lin, **Shengbin Yue**, Chiokit Ieong, Yi Sun, Rory James Zauner, Zhongyu Wei, Siming Chen.   
 
-* [Haf-rm: A hybrid alignment framework for reward model training](https://arxiv.org/abs/2407.04185).  
-  Shujun Liu, Xiaoyu Shen, Yuhang Lai, Siyuan Wang, **Shengbin Yue**, Zengfeng Huang, Xuanjing Huang, Zhongyu Wei.  
-  **Preprint**
-
-* [Multi-grained Representation Aggregating Transformer with Gating Cycle for Change Captioning](https://dl.acm.org/doi/abs/10.1145/3660346).  
+* **[DASFAA 2024]** [LawLLM: Intelligent Legal System with Legal Reasoning and Verifiable Retrieval](https://link.springer.com/chapter/10.1007/978-981-97-5569-1_19).  
+  **Shengbin Yue**, Shujun Liu, Yuxuan Zhou, Chenchen Shen, Siyuan Wang, Yao Xiao, Bingxuan Li, Yun Song, Xiaoyu Shen, Wei Chen, Xuanjing Huang, Zhongyu We
+  
+* **[ACM TOMM 2024]** [Multi-grained Representation Aggregating Transformer with Gating Cycle for Change Captioning](https://dl.acm.org/doi/abs/10.1145/3660346).  
   **Shengbin Yue**, Yunbin Tu, Liang Li, Shengxiang Gao, Zhengtao Yu.  
-  **ACM TOMM 2024**
 
-* [Disc-lawllm: Fine-tuning large language models for intelligent legal services](https://arxiv.org/abs/2309.11325).  
-  **Shengbin Yue**, Wei Chen, Siyuan Wang, Bingxuan Li, Chenchen Shen, Shujun Liu, Yuxuan Zhou, Yao Xiao, Song Yun, Xuanjing Huang, Zhongyu Wei.  
-  **Preprint**
-
-* [I3N: Intra- and Inter-Representation Interaction Network for Change Captioning](https://ieeexplore.ieee.org/abstract/document/10050818).  
+* **[IEEE TMM 2023]** [I3N: Intra- and Inter-Representation Interaction Network for Change Captioning](https://ieeexplore.ieee.org/abstract/document/10050818).  
   **Shengbin Yue**, Yunbin Tu, Liang Li, Ying Yang, Shengxiang Gao, Zhengtao Yu.  
-  **IEEE TMM 2023**
 
 Honors & Awards
 ======
