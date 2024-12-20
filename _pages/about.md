@@ -14,7 +14,7 @@ My work spans Natural Language Processing and Multi-modal Learning. I’m partic
 * 📸 Vision-and-language content analysis.
 
 
-***[ Sometimes when you're in the presence of great people, it elevates you, and inspires you just to go that little bit further -- Bear Grylls]***
+***[ Sometimes when you're in the presence of great people, it elevates you, and inspires you just to go that little bit further -- Bear Grylls ]***
 
 
 Recent News
@@ -41,7 +41,7 @@ Publications
   **Shengbin Yue**, Siyuan Wang, Wei Chen, Xuanjing Huang, Zhongyu Wei.  
 
 * **[NLPCC 2024]** [Empowering LLMs for Long-Text Information Extraction in Chinese Legal Documents](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_35).  
-  Chenchen Shen \*, Chengwei Ji \*, **Shengbin Yue**, Xiaoyu Shen, Yun Song, Xuanjing Huang, Zhongyu Wei.   
+  Chenchen Shen\*, Chengwei Ji\*, **Shengbin Yue**, Xiaoyu Shen, Yun Song, Xuanjing Huang, Zhongyu Wei.   
   
 * **[IEEE TVCG & VIS 2024]** [Fine-Tuned Large Language Model for Visualization System: A Study on Self-Regulated Learning in Education](https://ieeexplore.ieee.org/abstract/document/10670435).   
   Lin Gao, Jing Lu, Zekai Shao, Ziyue Lin, **Shengbin Yue**, Chiokit Ieong, Yi Sun, Rory James Zauner, Zhongyu Wei, Siming Chen.   
