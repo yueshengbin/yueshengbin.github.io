@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 👀 I am Shengbin Yue (岳圣斌), a Ph.D. student at Fudan University. I’m a member of the [Fudan NLP Group](https://nlp.fudan.edu.cn/nlpen/main.htm) and [DISC Lab](http://www.fudan-disc.com/), and very fortunate to be advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and Prof. [Wei Lin](https://iics.fudan.edu.cn/41/d7/c33358a410071/page.htm). Before that, I received my M.S. degree from Kunming University of Science and Technology in 2023, advised by Prof. [Zhengtao Yu](https://xzy.kmust.edu.cn/info/1159/1311.htm). Besides, I was honored to collaborate with Prof. [Liang Li](https://vipl.ict.ac.cn/people/lliang/) (ICT, CAS). 
+Hi! 👀 I am Shengbin Yue (岳圣斌), a Ph.D. student at Fudan University. I’m a member of the [Fudan NLP Group](https://nlp.fudan.edu.cn/nlpen/main.htm) and [DISC Lab](http://www.fudan-disc.com/), and very fortunate to be advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and Prof. [Wei Lin](https://iics.fudan.edu.cn/41/d7/c33358a410071/page.htm). Before that, I received my M.S. degree from Kunming University of Science and Technology in 2023, advised by Prof. [Zhengtao Yu](https://xzy.kmust.edu.cn/info/1159/1311.htm). Moreover, I was honored to collaborate with Prof. [Liang Li](https://vipl.ict.ac.cn/people/lliang/) (ICT, CAS). 
 
 My work spans Natural Language Processing and Multi-modal Learning. I’m particularly excited about these research thrusts:
 * 🤖 Multi-agent systems powered by Large Language Models. 
