@@ -57,8 +57,9 @@ Publications
 
 Honors & Awards
 ======
-* Tung Scholarship, FDU, 2024.
-* Merit Student, FDU, 2024.
+* Tung Scholarship, Fudan University, 2024.
+* Merit Student, Fudan University, 2024.
+* Outstanding Student Scholarship, Fudan University, 2023.
 * Yunnan Merit Student, Yunnan Province, 2023.
 * Outstanding Graduate, Yunnan Province, 2020.
   
