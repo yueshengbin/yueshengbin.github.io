@@ -19,7 +19,7 @@ My work spans Natural Language Processing and Multi-modal Learning. I’m partic
 
 Recent News
 ======
-* 2024.12: A paper is accepted by *AAAI 2025* (Oral, Top2%).
+* 2024.12: A paper is accepted by *AAAI 2025* (Oral, Top20%).
 
 * 2024.08: A paper is accepted by *NLPCC 2024*.
 
@@ -39,7 +39,7 @@ Publications
   
 * **[AAAI 2025]** [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](https://arxiv.org/abs/2407.09893).  
   **Shengbin Yue**, Siyuan Wang, Wei Chen, Xuanjing Huang, Zhongyu Wei. 
-  **(Oral, Top2%)**  
+  **(Oral, Top20%)**  
 
 * **[NLPCC 2024]** [Empowering LLMs for Long-Text Information Extraction in Chinese Legal Documents](https://link.springer.com/chapter/10.1007/978-981-97-9431-7_35).  
   Chenchen Shen\*, Chengwei Ji\*, **Shengbin Yue**, Xiaoyu Shen, Yun Song, Xuanjing Huang, Zhongyu Wei.   
