@@ -19,7 +19,7 @@ My work spans Natural Language Processing and Multi-modal Learning. I’m partic
 
 Recent News
 ======
-* 2024.12: A paper is accepted by *AAAI 2025* (Oral, Top5%).
+* 2024.12: A paper is accepted by *AAAI 2025* **(Oral, Top 5%)**.
 
 * 2024.08: A paper is accepted by *NLPCC 2024*.
 
