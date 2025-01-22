@@ -14,9 +14,6 @@ My work spans Natural Language Processing and Multi-modal Learning. I’m partic
 * 📸 Vision-and-language content analysis.
 
 
-***[ Sometimes when you're in the presence of great people, it elevates you, and inspires you just to go that little bit further -- Bear Grylls ]***
-
-
 Recent News
 ======
 * 2024.12: A paper is accepted by *AAAI 2025* **(Oral, Top 5%)**.
