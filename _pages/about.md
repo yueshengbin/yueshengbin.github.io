@@ -60,7 +60,7 @@ Honors & Awards
 * Tung Scholarship, Fudan University, 2024.
 * Merit Student, Fudan University, 2024.
 * Outstanding Student Scholarship, Fudan University, 2023.
-* Yunnan Merit Student, Yunnan Province, 2023.
+* Merit Student, Yunnan Province, 2023.
 * Outstanding Graduate, Yunnan Province, 2020.
   
 Service
