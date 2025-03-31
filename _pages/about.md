@@ -63,8 +63,8 @@ Honors & Awards
 ======
 * Tung Scholarship, Fudan University, 2024.
 * Merit Student, Fudan University, 2024.
-* Outstanding Student Scholarship, Fudan University, 2023，2024.
-* First-class Academic Scholarship, Fudan University, 2024.
+* Outstanding Student Scholarship, Fudan University, 2023, 2024.
+* First-class Academic Scholarship, Fudan University, 2023, 2024.
 * Merit Student, Yunnan Province, 2023.
 * Outstanding Graduate, Yunnan Province, 2020.
   
