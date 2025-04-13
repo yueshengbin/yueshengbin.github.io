@@ -40,7 +40,7 @@ Publications
   **Shengbin Yue\***, Ting Huang\*, Zheng Jia\*, Siyuan Wang, Shujun Liu, Yun Song, Xuanjing Huang, Zhongyu Wei. 
   *(Findings)*
   
-* **[AAAI 2025]** [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](https://arxiv.org/abs/2407.09893).  
+* **[AAAI 2025]** [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](https://ojs.aaai.org/index.php/AAAI/article/view/34772).  
   **Shengbin Yue**, Siyuan Wang, Wei Chen, Xuanjing Huang, Zhongyu Wei. 
   **(Oral)**  
 
