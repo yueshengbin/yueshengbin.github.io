@@ -36,7 +36,7 @@ Publications
 * **[Preprint]** [Haf-rm: A hybrid alignment framework for reward model training](https://arxiv.org/abs/2407.04185).  
   Shujun Liu, Xiaoyu Shen, Yuhang Lai, Siyuan Wang, **Shengbin Yue**, Zengfeng Huang, Xuanjing Huang, Zhongyu Wei.
   
-* **[NAACL 2025]** [Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction](https://arxiv.org/abs/2502.06882).  
+* **[NAACL 2025]** [Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction](https://aclanthology.org/2025.findings-naacl.365.pdf).  
   **Shengbin Yue\***, Ting Huang\*, Zheng Jia\*, Siyuan Wang, Shujun Liu, Yun Song, Xuanjing Huang, Zhongyu Wei. 
   *(Findings)*
   
