@@ -16,6 +16,8 @@ My work spans Natural Language Processing and Multi-modal Learning. I’m partic
 
 Recent News
 ======
+* 2025.05: A paper is accepted by *ACL 2025 Main*.
+* 
 * 2025.01: A paper is accepted by *NAACL 2025*.
 
 * 2024.12: A paper is accepted by *AAAI 2025* **(Oral, Top 4.6%)**.
@@ -33,8 +35,9 @@ Recent News
 Publications
 ======
 \* indicates equal contributions.
-* **[Preprint]** [Haf-rm: A hybrid alignment framework for reward model training](https://arxiv.org/abs/2407.04185).  
-  Shujun Liu, Xiaoyu Shen, Yuhang Lai, Siyuan Wang, **Shengbin Yue**, Zengfeng Huang, Xuanjing Huang, Zhongyu Wei.
+* **[ACL 2025]** [Haf-rm: A hybrid alignment framework for reward model training](https://arxiv.org/abs/2407.04185).  
+  Shujun Liu, Xiaoyu Shen, Yuhang Lai, Siyuan Wang, **Shengbin Yue**, Zengfeng Huang, Xuanjing Huang, Zhongyu Wei. 
+   **(Main)**
   
 * **[NAACL 2025]** [Multi-Agent Simulator Drives Language Models for Legal Intensive Interaction](https://aclanthology.org/2025.findings-naacl.365.pdf).  
   **Shengbin Yue\***, Ting Huang\*, Zheng Jia\*, Siyuan Wang, Shujun Liu, Yun Song, Xuanjing Huang, Zhongyu Wei. 
