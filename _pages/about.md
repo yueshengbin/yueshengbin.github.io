@@ -17,7 +17,7 @@ My work spans Natural Language Processing and Multi-modal Learning. I’m partic
 Recent News
 ======
 * 2025.05: A paper is accepted by *ACL 2025 Main*.
-* 
+  
 * 2025.01: A paper is accepted by *NAACL 2025*.
 
 * 2024.12: A paper is accepted by *AAAI 2025* **(Oral, Top 4.6%)**.
