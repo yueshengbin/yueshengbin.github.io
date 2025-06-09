@@ -28,7 +28,7 @@ Recent News
 
 * 2024.04: A paper is accepted by *ACM TOMM*.
 
-* 2024.03: A paper is accepted by *DASFAA 2024* (Long Paper).
+* 2024.03: A paper is accepted by *DASFAA 2024* (Oral).
 
 
 
