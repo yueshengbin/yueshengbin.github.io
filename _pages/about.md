@@ -74,6 +74,6 @@ Honors & Awards
   
 Service
 ======
-* Reviewer: ARR Cycle, ACL 2025, COLING 2025, NLPCC 2024, Knowledge-Based Systems, Neurocomputing
+* Reviewer: ARR Cycle, ACL 2025, EMNLP 2025, COLING 2025, NLPCC 2024, Knowledge-Based Systems, Neurocomputing
 * Teaching Assistant: IICS737021-Large Language Model-24 Fall
 
