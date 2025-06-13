@@ -9,9 +9,9 @@ redirect_from:
 
 Hi! 👀 I am Shengbin Yue (岳圣斌), a Ph.D. student at Fudan University. I’m a member of the [Fudan NLP Group](https://nlp.fudan.edu.cn/nlpen/main.htm) and [DISC Lab](http://www.fudan-disc.com/), and very fortunate to be advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and Prof. [Wei Lin](https://iics.fudan.edu.cn/41/d7/c33358a410071/page.htm). Before that, I received my M.S. degree from Kunming University of Science and Technology in 2023, advised by Prof. [Zhengtao Yu](https://xzy.kmust.edu.cn/info/1159/1311.htm). Moreover, I was honored to collaborate with Prof. [Liang Li](https://vipl.ict.ac.cn/people/lliang/) (ICT, CAS). 
 
-My work spans Natural Language Processing and Multi-modal Learning. Before LLMs, I focused on visual-language captioning (i.e., Change Captioning). Now, I’m dedicated to advancing fundamental planning and reasoning capabilities in language models, with a particular focus on :
-* 💻 Autonomous Agents: *Designing agents learning for interaction with physically grounded environments. Research focuses on retrieval-augmented reasoning, adaptive tool use, and reinforcement learning, to enable agents to perform high-level compositional reasoning.*
-* 🌎 Social Modeling: *Exploring methods for collaboration and reasoning of language models within real-world social structures (e.g., legal systems). This includes multi-task scheduling, social simulation, and strategic planning, to enable agents to comprehend social norms, execute socially structured tasks, and support trustworthy human-AI cooperation.*
+My work spans Natural Language Processing and Multi-modal Learning. Before LLMs, I focused on visual-language captioning (i.e., Change Captioning). Now, I’m dedicated to advancing fundamental planning and reasoning capabilities in language models, with a particular focus on :  
+* 💻 [Autonomous Agents]: *Designing agents learning for interaction with physically grounded environments. Research focuses on reinforcement learning, evolutionary optimization, and multi-agent synergy, applying to retrieval-augmented reasoning and adaptive tool use.*
+* 🌎 [Social Modeling]: *Exploring methods for collaboration and reasoning of language models within real-world social structures (e.g., legal systems). This includes multi-task scheduling, social simulation, and strategic planning, to enable agents to comprehend social norms, execute socially structured tasks, and support trustworthy human-AI cooperation.*
 
 
 Recent News
