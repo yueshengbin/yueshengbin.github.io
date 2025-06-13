@@ -11,7 +11,7 @@ Hi! 👀 I am Shengbin Yue (岳圣斌), a Ph.D. student at Fudan University. I�
 
 My work spans Natural Language Processing and Multi-modal Learning. Before LLMs, I focused on visual-language captioning (i.e., Change Captioning). Now, I’m dedicated to advancing fundamental planning and reasoning capabilities in language models, with a particular focus on :
 * 💻 Autonomous Agents: *Designing agents learning for interaction with physically grounded environments. Research focuses on retrieval-augmented reasoning, adaptive tool use, and reinforcement learning, to enable agents to perform high-level compositional reasoning.*
-* 🌎 Social Modeling: *Exploring methods for collaboration and reasoning of language models within real-world social structures (e.g., legal systems). This includes interactive evolving, social simulation, and strategic planning, to enable agents to comprehend social norms, execute socially structured tasks, and support trustworthy human-AI cooperation.*
+* 🌎 Social Modeling: *Exploring methods for collaboration and reasoning of language models within real-world social structures (e.g., legal systems). This includes multi-task scheduling, social simulation, and strategic planning, to enable agents to comprehend social norms, execute socially structured tasks, and support trustworthy human-AI cooperation.*
 
 
 Recent News
