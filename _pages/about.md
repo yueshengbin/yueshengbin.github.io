@@ -35,6 +35,10 @@ Recent News
 Publications
 ======
 \* indicates equal contributions.
+* **[Preprint]** [Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments](https://arxiv.org/abs/2507.04037).  
+  Zheng Jia*, **Shengbin Yue\***, Wei Chen, Siyuan Wang, Yidong Liu, Yun Song, Zhongyu Wei. 
+ 
+
 * **[ACL 2025]** [Haf-rm: A hybrid alignment framework for reward model training](https://arxiv.org/abs/2407.04185).  
   Shujun Liu, Xiaoyu Shen, Yuhang Lai, Siyuan Wang, **Shengbin Yue**, Zengfeng Huang, Xuanjing Huang, Zhongyu Wei. 
    **(Main)**
