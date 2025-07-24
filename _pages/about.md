@@ -39,7 +39,7 @@ Publications
   Zheng Jia*, **Shengbin Yue\***, Wei Chen, Siyuan Wang, Yidong Liu, Yun Song, Zhongyu Wei. 
  
 
-* **[ACL 2025]** [Haf-rm: A hybrid alignment framework for reward model training](https://arxiv.org/abs/2407.04185).  
+* **[ACL 2025]** [Haf-rm: A hybrid alignment framework for reward model training](https://aclanthology.org/2025.acl-long.924.pdf).  
   Shujun Liu, Xiaoyu Shen, Yuhang Lai, Siyuan Wang, **Shengbin Yue**, Zengfeng Huang, Xuanjing Huang, Zhongyu Wei. 
    **(Main)**
   
