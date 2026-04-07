@@ -16,6 +16,8 @@ My work spans Natural Language Processing and Multi-modal Learning. Before LLMs,
 
 Recent News
 ======
+* 2026.04: A paper is accepted by *ACL 2026 Main*.
+
 * 2025.05: A paper is accepted by *ACL 2025 Main*.
   
 * 2025.01: A paper is accepted by *NAACL 2025*.
@@ -35,8 +37,9 @@ Recent News
 Publications
 ======
 \* indicates equal contributions.
-* **[Preprint]** [Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments](https://arxiv.org/abs/2507.04037).  
-  Zheng Jia*, **Shengbin Yue\***, Wei Chen, Siyuan Wang, Yidong Liu, Yun Song, Zhongyu Wei. 
+* **[ACL 2026]** [Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments](https://arxiv.org/abs/2507.04037).  
+  Zheng Jia*, **Shengbin Yue\***, Wei Chen, Siyuan Wang, Yidong Liu, Yun Song, Zhongyu Wei.
+  **(Main)**
  
 
 * **[ACL 2025]** [Haf-rm: A hybrid alignment framework for reward model training](https://aclanthology.org/2025.acl-long.924.pdf).  
@@ -70,8 +73,8 @@ Honors & Awards
 ======
 * Tung Scholarship, Fudan University, 2024.
 * Merit Student, Fudan University, 2024.
-* Outstanding Student Scholarship, Fudan University, 2023, 2024.
-* First-class Academic Scholarship, Fudan University, 2023, 2024.
+* Outstanding Student Scholarship, Fudan University, 2023, 2024, 2025
+* First-class Academic Scholarship, Fudan University, 2023, 2024, 2025
 * Outstanding Master's Thesis Award, Yunnan Province, 2024.  
 * Merit Student, Yunnan Province, 2023.
 * Outstanding Graduate, Yunnan Province, 2020.
