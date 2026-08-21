@@ -115,6 +115,16 @@ tr.hl td.pub-text  { border-radius: 0 8px 8px 0; }
 .news ul { margin: 8px 0; padding-left: 20px; }
 .news li { margin-bottom: 6px; font-size: 19px; }
 .news .date { font-weight: 700; color: #555; margin-right: 8px; }
+.news code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.86em;
+  padding: 1px 6px;
+  border: 1px solid #e1e4e8;
+  border-radius: 4px;
+  background: #eef1f4;
+  color: #24292f;
+  white-space: nowrap;
+}
 
 /* Responsive: stack the two-column profile + publication rows on phones */
 @media (max-width: 600px) {
