@@ -74,6 +74,15 @@ tr.hl td.pub-text  { border-radius: 0 8px 8px 0; }
 .links a { white-space: nowrap; }
 .links i { font-size: 15px; }
 .links .ai { font-size: 16px; }
+.xiaohongshu-icon {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  vertical-align: -2px;
+  filter: hue-rotate(210deg) saturate(0.75);
+}
+.links a:hover .xiaohongshu-icon,
+.links a:focus .xiaohongshu-icon { filter: hue-rotate(45deg); }
 
 /* Venue badge used in the publication thumbnail column */
 .venue {
